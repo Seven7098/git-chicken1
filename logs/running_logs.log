@@ -1,0 +1,6 @@
+[2024-05-01 14:11:40,064: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080]
+[2024-05-01 14:11:40,064: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-01 14:12:15,821: INFO: _internal: 127.0.0.1 - - [01/May/2024 14:12:15] "GET / HTTP/1.1" 200 -]
